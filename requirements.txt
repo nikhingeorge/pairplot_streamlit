@@ -1,3 +1,4 @@
 pandas
 streamlit
-biopython
+matplotlib
+seaborn
